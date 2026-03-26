@@ -5,7 +5,7 @@ Hey! I'm *Syakir*, a tech enthusiast diving deep into programming, ethical hacki
 Let's build, hack, and innovate! 💡.
 
 [![Website](https://img.shields.io/badge/-Your_Site-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmad-aqzlan-ahmad-syakir-836743279)
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
 
 ✨ *I WANT TO BE NUMBER 1 IN HACKING* ✨
