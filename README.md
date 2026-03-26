@@ -1,5 +1,9 @@
 <h2 align="center">NOCTRA X UNORTHODOX</h2>
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFzZ3hkN3kxY2l4YXNyODdhN2Rnb3M4Zzd4MnoybHE4dzc4OGs1eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3og0ILLVvPp8d64Jd6/giphy.gif" width="300"/>
+</div>
 ###
 
 <div align="center">
@@ -28,15 +32,11 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=unorthodoxfg&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=unorthodoxfg&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unorthodoxfg/unorthodoxfg/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/unorthodoxfg/unorthodoxfg/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/unorthodoxfg/unorthodoxfg/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+### 🎧 Recently Played on Spotify
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=ya2ac6psrrrvnqoi82bqvz5ss" />
+</div>
