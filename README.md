@@ -1,42 +1,40 @@
-<h2 align="center">NOCTRA X UNORTHODOX</h2>
+#𝕹𝖔𝖈𝖙𝖗𝖆 𝕳𝖆𝖈𝖐𝖎𝖓𝖌 𝕿𝖊𝖆𝖒
+
+Hey! I'm *Syakir*, a tech enthusiast diving deep into programming, ethical hacking, and full-stack development.  
+
+Let's build, hack, and innovate! 💡.
+
+[![Website](https://img.shields.io/badge/-Your_Site-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
+
+✨ *I WANT TO BE NUMBER 1 IN HACKING* ✨
+
+---
+
+## ⚡ A Few Quick Facts
+
+<img align="right" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmp3cTA1bmE2bmI2NXZvYXh3MW51cWszYzgwdXRzOHpibGsyc3l1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif" />
+
+- 💻 Passionate about **C++, Java, HTML** for building robust applications  
+- 🖥️ Exploring **Linux, Oracle**, and secure computing environments  
+- 🔒 Aspiring **ethical hacker** and cybersecurity explorer  
+- 🚀 Always learning new tools, frameworks, and hacking techniques  
+- 🎯 Goal: Level up as a **ethical hacker** while sharing knowledge through coding projects
+- 🐧 I enjoy **learning Linux and working with Oracle databases**.  
+- 🎨 I’m fascinated by **creating unique characters for games
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFzZ3hkN3kxY2l4YXNyODdhN2Rnb3M4Zzd4MnoybHE4dzc4OGs1eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3og0ILLVvPp8d64Jd6/giphy.gif" width="300"/>
-</div>
+---
 
+## 🚀 Some Tools I Use
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-</div>
+### Frontend & Backend
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
-###
+### Infrastructure & Databases
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=unorthodoxfg&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-### 🎧 Recently Played on Spotify
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=ya2ac6psrrrvnqoi82bqvz5ss" />
-</div>
