@@ -14,7 +14,7 @@ Let's build, hack, and innovate! 💡.
 
 ## ⚡ A Few Quick Facts
 
-<img align="right" width="190" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmp3cTA1bmE2bmI2NXZvYXh3MW51cWszYzgwdXRzOHpibGsyc3l1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif" />
+<img align="right" width="188" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmp3cTA1bmE2bmI2NXZvYXh3MW51cWszYzgwdXRzOHpibGsyc3l1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif" />
 
 - 💻 Passionate about **C++, Java, HTML** for building robust applications  
 - 🖥️ Exploring **Linux, Oracle**, and secure computing environments  
