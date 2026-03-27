@@ -1,10 +1,9 @@
-#𝕹𝖔𝖈𝖙𝖗𝖆 𝕳𝖆𝖈𝖐𝖎𝖓𝖌 𝕿𝖊𝖆𝖒
 
 Hey! I'm *Syakir*, a tech enthusiast diving deep into programming, ethical hacking, and full-stack development.  
 
 Let's build, hack, and innovate! 💡.
 
-[![Website](https://img.shields.io/badge/-Your_Site-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![HTB](https://img.shields.io/badge/-Hack_The_Box-111111?style=flat-square&logo=hackthebox&logoColor=green)](https://profile.hackthebox.com/profile/019cbea6-1a14-72be-a2ac-cf52398d1fa0)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-aqzlan-ahmad-syakir-836743279)
 [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
 
